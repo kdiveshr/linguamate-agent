@@ -27,6 +27,8 @@
         <url/>
     </scm>
     <properties>
+        <!-- Reproducibility study fix, playbook step 2: pin archive timestamps to the pinned commit time. -->
+        <project.build.outputTimestamp>1794893355</project.build.outputTimestamp>
         <java.version>17</java.version>
         <mybatis-plus.version>3.5.7</mybatis-plus.version>
         <spring-ai.version>1.0.0</spring-ai.version>
